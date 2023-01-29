@@ -14,6 +14,6 @@ if len(sys.argv) > 1 :
         if int(num) == 0:
             print("I'm Zero.") 
         elif int(num)% 2 == 0:
-            print("I'm odd")
+            print("I'm Even")
         else:
-            print("I'm Even.")
+            print("I'm Odd.")
